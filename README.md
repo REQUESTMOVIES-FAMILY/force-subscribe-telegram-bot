@@ -11,6 +11,9 @@
 ## Deploy
 
 ### Installation
+- Clone this repo
+```
+git clone https://github.com/REQUESTMOVIES-FAMILY/force-subscribe-telegram-bot
 ```
 - Change directory
 ```
